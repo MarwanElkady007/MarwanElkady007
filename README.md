@@ -1,59 +1,36 @@
-# Hi, I'm Marwan Elkady 👋
+## Marwan Elkady
 
-**Computer Science & Artificial Intelligence student** at Cairo University (graduating 2027), interested in machine learning and data-driven solutions to real-world problems.
+Computer Science & AI student at Cairo University (FCAI), graduating in 2027.
+I mostly work on machine learning with Python. Before that I spent a lot of time on C++
+and Java through coursework. In summer 2025 I trained with the database team at the
+National Bank of Egypt.
 
-- 🎓 Graduation project: **AI-assisted diagnosis of Systemic Lupus Erythematosus** from clinical signs
-- 🏦 Former **Database Administrator Trainee** at the National Bank of Egypt
-- 🌱 Currently learning deep learning and AI engineering
-- 📫 Contact: Marwanibraheem03@gmail.com
+My graduation project uses machine learning to help diagnose lupus (SLE) from clinical signs.
 
----
+**Main tools:** Python, scikit-learn, TensorFlow/Keras, pandas, SQL, C++, Java
 
-## 🛠️ Tech Stack
+### Projects
 
-**Languages:** Python · C++ · Java · SQL · JavaScript · Dart
-**ML / Data:** scikit-learn · TensorFlow / Keras · NumPy · pandas · matplotlib · Jupyter
-**Web / Apps:** Flask · Django · PyQt5 · Flutter · HTML / CSS
-**Tools:** Git · Docker · SQL Server
+Machine learning
+- [sle-lupus-diagnosis-ml](https://github.com/MarwanElkady007/sle-lupus-diagnosis-ml): graduation project, lupus diagnosis from clinical signs
+- [cifar10-vision-ai](https://github.com/MarwanElkady007/cifar10-vision-ai): CNN / RNN / LSTM image classifiers with a Flask front end
+- [naive-bayes-from-scratch](https://github.com/MarwanElkady007/naive-bayes-from-scratch): Gaussian and Multinomial NB in NumPy
+- [mnist-optimizer-comparison](https://github.com/MarwanElkady007/mnist-optimizer-comparison): NN from scratch, optimizers, random search vs. genetic algorithm
+- [bender-gestalt-analysis](https://github.com/MarwanElkady007/bender-gestalt-analysis): psychology test data + object detection
+- [machine-learning-coursework](https://github.com/MarwanElkady007/machine-learning-coursework): course assignments, mostly implemented from scratch
 
----
+Other
+- [classic-ai-algorithms](https://github.com/MarwanElkady007/classic-ai-algorithms): A*, forward/backward chaining, SAT
+- [operating-systems-projects](https://github.com/MarwanElkady007/operating-systems-projects): shell, semaphores, CPU scheduling (Java)
+- [food-ordering-system](https://github.com/MarwanElkady007/food-ordering-system): SQL Server database + PyQt5 app
+- [school-task-manager](https://github.com/MarwanElkady007/school-task-manager): Django
+- [problem-solving](https://github.com/MarwanElkady007/problem-solving): C++ and LeetCode
 
-## ⭐ Featured Projects
+Older C++/Java coursework: [image-filters-app](https://github.com/MarwanElkady007/image-filters-app),
+[vole-machine-simulator](https://github.com/MarwanElkady007/vole-machine-simulator),
+[board-games-collection](https://github.com/MarwanElkady007/board-games-collection),
+[investment-portfolio-app](https://github.com/MarwanElkady007/investment-portfolio-app)
 
-| Project | Description | Stack |
-|---|---|---|
-| [**SLE Diagnosis ML**](https://github.com/MarwanElkady007/sle-lupus-diagnosis-ml) | Graduation project: lupus diagnosis from clinical signs. **93% test accuracy, 0.98 ROC-AUC**, plus an interpretable clinical scoring nomogram | scikit-learn |
-| [**CIFAR-10 Vision AI**](https://github.com/MarwanElkady007/cifar10-vision-ai) | Full-stack image classifier: CNN / RNN / GRU / LSTM+Attention served by Flask, Dockerized | TensorFlow, Flask |
-| [**Naive Bayes from Scratch**](https://github.com/MarwanElkady007/naive-bayes-from-scratch) | Gaussian vs. Multinomial NB in pure NumPy, on tabular data and on IMDB sentiment | NumPy |
-| [**MNIST Optimizer Comparison**](https://github.com/MarwanElkady007/mnist-optimizer-comparison) | NN from scratch + hyperparameter tuning with random search and a genetic algorithm | Keras |
-| [**Bender-Gestalt Analysis**](https://github.com/MarwanElkady007/bender-gestalt-analysis) | AI-assisted psychological test analysis: feature engineering + Roboflow object detection | Python, CV |
+Most team projects were with [Seif Wael](https://github.com/Seiffwaell) and [Mohamed Waleed](https://github.com/MrWeza).
 
-## 📂 More Projects, Year by Year
-
-**Year 3 (2025-26)**
-- [Machine Learning Coursework](https://github.com/MarwanElkady007/machine-learning-coursework): GMM, PCA, neural nets & Naive Bayes from scratch; CNN experiments
-- [Classic AI Algorithms](https://github.com/MarwanElkady007/classic-ai-algorithms): A* search, forward/backward chaining, SAT-based logic puzzle
-- [Operating Systems Projects](https://github.com/MarwanElkady007/operating-systems-projects): shell emulator, semaphores, CPU scheduler (Java)
-
-**Year 2 (2024-25)**
-- [Food Ordering System](https://github.com/MarwanElkady007/food-ordering-system): SQL Server database + PyQt5 GUI
-- [School Task Manager](https://github.com/MarwanElkady007/school-task-manager): Django web app with role-based dashboards
-- [Investment Portfolio App](https://github.com/MarwanElkady007/investment-portfolio-app): Java, SOLID design
-- [Board Games Collection](https://github.com/MarwanElkady007/board-games-collection): C++ OOP game framework
-- [Vole Machine Simulator](https://github.com/MarwanElkady007/vole-machine-simulator): CPU simulator (C++)
-
-**Year 1 (2023-24)**
-- [Image Filters App](https://github.com/MarwanElkady007/image-filters-app): 15+ image filters in C++
-
-**Ongoing**
-- [Problem Solving](https://github.com/MarwanElkady007/problem-solving): competitive programming & algorithms
-
-## 🤝 Collaborators
-Most of my team projects were built with [Seif Wael](https://github.com/Seiffwaell) and [Mohamed Waleed](https://github.com/MrWeza).
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarwanElkady007&show_icons=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarwanElkady007&layout=compact&hide_border=true" height="160"/>
-</p>
+Email: marwanibraheem03@gmail.com
