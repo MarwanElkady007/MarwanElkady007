@@ -30,9 +30,6 @@
 
 ## 📂 More Projects, Year by Year
 
-**Year 4 (2025-26)**
-- [Interactive Question Bank](https://github.com/MarwanElkady007/interactive-question-bank): study web app (JS)
-
 **Year 3 (2025-26)**
 - [Machine Learning Coursework](https://github.com/MarwanElkady007/machine-learning-coursework): GMM, PCA, neural nets & Naive Bayes from scratch; CNN experiments
 - [Classic AI Algorithms](https://github.com/MarwanElkady007/classic-ai-algorithms): A* search, forward/backward chaining, SAT-based logic puzzle
@@ -50,6 +47,9 @@
 
 **Ongoing**
 - [Problem Solving](https://github.com/MarwanElkady007/problem-solving): competitive programming & algorithms
+
+## 🤝 Collaborators
+Most of my team projects were built with [Seif Wael](https://github.com/Seiffwaell) and [Mohamed Waleed](https://github.com/MrWeza).
 
 ---
 
